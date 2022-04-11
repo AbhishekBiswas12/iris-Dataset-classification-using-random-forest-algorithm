@@ -24,3 +24,5 @@ The training set has 80% of the data
 The test set has the 20% of the data
 
 The model has a r2 score of 96.67%(approximately)
+
+The Repository contains both the code and the model
